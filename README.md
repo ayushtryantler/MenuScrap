@@ -1,4 +1,4 @@
-# MenuScrap
+# MenuScrapn USE VPN Clover not opening for India Location
 Command to run the application:
 1.npm i
 2.tsc
